@@ -9,7 +9,7 @@ Erste Übung für den Git-Ablauf (Issue #2): Trag dich über einen eigenen Branc
 
 | Rolle | Name | GitHub |
 |---|---|---|
-| Projektleitung & Product Owner | | |
+| Projektleitung & Product Owner | Felix | @flxlhr |
 | Git- & Prozess-Coach | Lara (Beispiel) | @lara-beispiel |
 | Spiel (Godot & Oberfläche) | | |
 | Server (PHP, API & Betrieb) | | |
