@@ -1,7 +1,7 @@
 name: Aufgabe / Feature
 description: Etwas, das gebaut, gestaltet oder erledigt werden soll
 labels: []
-projects: ["flxlhr/1"]
+projects: ["flxlhr/2"]
 body:
   - type: textarea
     id: ziel

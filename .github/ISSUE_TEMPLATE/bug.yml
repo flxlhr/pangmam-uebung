@@ -1,7 +1,7 @@
 name: Fehler melden
 description: Etwas funktioniert nicht wie erwartet
 labels: ["typ: bug"]
-projects: ["flxlhr/1"]
+projects: ["flxlhr/2"]
 body:
   - type: textarea
     id: was

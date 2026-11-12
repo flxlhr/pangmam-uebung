@@ -1,4 +1,6 @@
-# Pangmam
+# Pangmam – Übungs-Repo
+
+> **Spielwiese!** Das hier ist eine Kopie von [flxlhr/Pangmam](https://github.com/flxlhr/Pangmam) zum Üben von Branches, Commits, Pull Requests und Konflikten. Hier darf man alles ausprobieren und auch mal etwas kaputt machen. Das Übungs-Board ist [Pangmam Übung](https://github.com/users/flxlhr/projects/2).
 
 Multiplayer-Hangman im Browser: Eine Person denkt sich ein Wort aus, bis zu sieben andere raten es gemeinsam. Wie bei skribbl.io erstellt man eine Lobby und schickt den Link an die anderen.
 
